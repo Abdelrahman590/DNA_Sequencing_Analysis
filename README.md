@@ -68,12 +68,6 @@ python Backend/app.py
 - Chart.js
 - Bootstrap 5.3.0
 
-## Usage
-
-1. Visit http://localhost:5000 in your web browser
-2. Upload a DNA sequence file or paste sequence text
-3. View the analysis results with interactive visualizations
-4. Export results in your preferred format
 
 ## License
 
